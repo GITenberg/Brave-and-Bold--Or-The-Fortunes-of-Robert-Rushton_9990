@@ -1,0 +1,38 @@
+_repo: Brave-and-Bold--Or-The-Fortunes-of-Robert-Rushton_9990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio
+    aliases:
+    - Preston, Charles F.
+    - Putnam, Arthur Lee
+    - Starr, Julian
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Swindlers and swindling -- Juvenile fiction'
+- !lcsh 'Fortune -- Juvenile fiction'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'India -- Juvenile fiction'
+- !lcsh 'Young men -- Juvenile fiction'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Missing persons -- Juvenile fiction'
+- GITenberg
+title: Brave and Bold; Or, The Fortunes of Robert Rushton
+url: http://www.gutenberg.org/ebooks/9990
